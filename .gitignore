@@ -2,6 +2,7 @@
 *.user
 *.userosscache
 *.csproj
+*.sln
 *.config
 [Pp]roperties
 [Dd]ebug/
